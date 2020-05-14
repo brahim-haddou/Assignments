@@ -1,0 +1,66 @@
+#header-nav {
+	background-color: #3700B3;
+	border-color: #6200EE;
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-default .navbar-toggle {
+	border-color: #6200EE;
+}
+
+.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+    background-color: #6200EE;
+}
+
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+	border-color: #6200EE;
+}
+
+.navbar-nav {
+    margin: 0px -15px;
+}
+
+li {
+	border-bottom: 1px solid #6200EE;
+}
+
+li:last-child {
+	border-bottom: none;
+}
+
+li:hover {
+	background-color: #6200EE;
+}
+
+.navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h1 {
+	margin-bottom: 20px;
+}
+
+article {
+	padding: 5px 15px 10px 15px;
+	margin-bottom: 20px;
+}
+
+h3 {
+	margin-top: 10px;
+}
+
+#chicken {
+	background-color: #03DAC6;
+}
+
+#beef {
+	background-color: rgb(18, 102, 172);
+}
+
+#sushi {
+	background-color: rgb(55, 153, 132);
+}
+
