@@ -19,3 +19,8 @@ ____
 
   [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md)  
   [Solution](https://brahim-haddou.github.io/Assignments/HTML-CSS-JS/module4-solution/)
+  
+### Module 5
+
+  [Assignment description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)  
+  [Solution](https://brahim-haddou.github.io/Assignments/HTML-CSS-JS/module5-solution/)
